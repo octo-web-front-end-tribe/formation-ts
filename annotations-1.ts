@@ -5,7 +5,7 @@ function Student(config) {
 }
 
 @Student({
-    course: 'Angular 5'
+    course: 'Angular 6'
 })
 class User {
     constructor(private firstname, private lastname) {
